@@ -1,0 +1,24 @@
+.group-1, .group-2 {
+    background-color: rgba(255, 0, 0, 0.3);
+    font-weight: bold;
+}
+
+.group-1 {
+    font-size: 20px;
+}
+
+.group-2 {
+    font-size: 30px;
+}
+
+#single-1 {
+    font-size: 50px;
+    font-weight: bold;
+    color: blue;
+}
+
+#single-2 {
+    font-size: 50px;
+    font-weight: bold;
+    background-color: rgba(0, 255, 0, 0.5);
+}
